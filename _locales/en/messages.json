@@ -1,0 +1,8 @@
+{
+  "extName": { "message": "Picture-in-Picture Button" },
+  "extDescription": { "message": "Adds a Picture-in-Picture button to video players, including YouTube." },
+  "actionTitle": { "message": "Picture-in-Picture (Alt+P)" },
+  "commandDescription": { "message": "Toggle Picture-in-Picture" },
+  "enterPip": { "message": "Picture-in-Picture" },
+  "exitPip": { "message": "Exit Picture-in-Picture" }
+}

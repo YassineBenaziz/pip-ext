@@ -1,0 +1,12 @@
+.pip-ext-yt-button {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  vertical-align: top;
+  color: #fff;
+}
+
+.pip-ext-yt-button svg {
+  width: 24px;
+  height: 24px;
+}
